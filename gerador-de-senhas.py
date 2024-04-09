@@ -1,6 +1,6 @@
 import random
 
-print('Olá, vou criar sua senha! :)')
+print('Olá, vou criar sua senha!')
 
 caracters = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%&*?0123456789'
 numero = input('Quantas senhas precisa?: ')
